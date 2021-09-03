@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flying Jet</string>
+
+    <style name="AppTheme.noActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+
+    <style name="AppTheme">app_theme</style>
+</resources>
